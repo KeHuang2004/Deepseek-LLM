@@ -2,7 +2,7 @@
 
 ## 概述
 
-Deepseek-LLM-7B 是一个具有 70 亿参数的最先进语言模型，在一个中英混合语料库（共计 2 万亿 tokens）上从零开始训练。我们为研究社区提供两个版本：
+Deepseek-LLM-7B 是一个具有 70 亿参数的最先进语言模型，在一个中英混合语料库（共计 2 万亿 tokens）上从零开始训练。研究社区存在两个版本：
 
 - **Base**：预训练模型，可作为后续微调或下游任务的基础。  
 - **Chat**：SFT-Chat 变体，优化了对话应用。
@@ -21,7 +21,7 @@ https://github.com/deepseek-ai/deepseek-LLM
 
 ## 下载
 
-您可以从主要托管平台获得该模型。由于网络环境（VPN/代理）限制，通常手动下载再传输到服务器是最快的方式。
+可以从主要托管平台获得该模型。由于网络环境（VPN/代理）限制，通常手动下载再传输到服务器是最快的方式。
 
 - ModelScope: https://www.modelscope.cn/models/deepseek-ai/deepseek-llm-7b-base/summary  
 - Hugging Face: https://huggingface.co/deepseek-ai/deepseek-llm-7b-base  
